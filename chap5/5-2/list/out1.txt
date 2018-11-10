@@ -1,0 +1,14 @@
+Passing students: 
+Carpenter 73.6
+Carpenter 73.6
+Carpenter 73.6
+Smith     90.4
+Smith     90.4
+Smith     90.4
+Smith     90.4
+
+Failing students: 
+Ross      23.8
+Ross      23.8
+Ross      23.8
+
